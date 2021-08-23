@@ -16,5 +16,3 @@
 
 &nbsp; &nbsp; [<img width="30" height="30" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>](https://www.instagram.com/badreddine_elmasbahi/) &nbsp; &nbsp; &nbsp;
 [<img src="https://image.flaticon.com/icons/png/512/220/220201.png" width="30" height="30"/>](https://www.linkedin.com/in/badreddine-elmasbahi-84305b1b9)
-
----
