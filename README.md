@@ -1,11 +1,15 @@
 ### Hi there, I'm Badreddine 👋
 
+<br>
+
 ## I'm a fullstack javascript developer!
 
 - 🔭 I’m currently working on React projects 
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 goal_net 2022 Goals: Contribute more to Open Source projects
+
+<br>
 
 ### Connect with me 📫:
 
