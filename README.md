@@ -11,5 +11,5 @@
 
 
 
-[<img width="30" height="30" src="https://www.pnglib.com/wp-content/uploads/2021/02/instagram-logo-png_6023f9ae0feb9-680x680.png"/>](https://www.instagram.com/badreddine_elmasbahi/)
-[<img src="https://icons.iconarchive.com/icons/martz90/circle/256/linkedin-icon.png" width="30" height="30"/>](https://www.linkedin.com/in/badreddine-elmasbahi-84305b1b9)
+[<img width="30" height="30" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png"/>](https://www.instagram.com/badreddine_elmasbahi/)
+[<img src="https://pic.onlinewebfonts.com/svg/img_24593.png" width="30" height="30"/>](https://www.linkedin.com/in/badreddine-elmasbahi-84305b1b9)
